@@ -1,16 +1,13 @@
-# demo_app
+# トレーニングの管理アプリ
 
-A new Flutter application.
+Flutterを利用したクロスプラットフォーム(ios, android対応)のアプリケーション
 
-## Getting Started
+## 開発した機能
+- トレーニングの記録を登録
+- トレーニングの進捗をカレンダーで確認
+- 新規のトレーニング項目を確認
+- トレーニングに関する統計をグラフで確認
+- プロフィールの設定(身長, 体重など)
 
-This project is a starting point for a Flutter application.
+## 開発画面
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
